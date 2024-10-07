@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Saltitones
-- 👀 I’m interested in $$$
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Muito din din
+- 🌱 I’m currently learning farm automática no mines
+- 💞️ I’m looking to collaborate on Clash royal
+- 📫 How to reach me insta: L.C.M.P
 - 😄 Pronouns: Fla/mengo
-- ⚡ Fun fact: pego 3kg na elevação lateral
+- ⚡ Fun fact: pego 8kg na elevação lateral
 
 <!---
 Saltitones/Saltitones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
